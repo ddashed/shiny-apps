@@ -2,7 +2,9 @@
 
 University project for master's thesis - an application that analyzes hotel booking data and predicts booking cancellations using machine learning methods. 
 The results of ML models are further explained using the DALEX package in R.  
-The application was created using the Shiny package in R in collaboration with university colleagues - Milana Morozova and Ahmar Anees.
+The application was created using the Shiny package in R in collaboration with university colleagues - Milana Morozova and Ahmar Anees.  
+
+Dataset from kaggle - https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand.
 
 **Screenshots of app**:
 
