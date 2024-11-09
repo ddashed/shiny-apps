@@ -1,6 +1,6 @@
 **About project**:
 
-University project for bachelor's thesis - an application that analyzes transaction log data and summarizes purchasing behavior based, as well as predicts customer lifetime value using probabilistic models (performed based on BTYDplus package in R).
+University project for bachelor's thesis - an application that analyzes transaction log data and summarizes purchasing behavior, as well as predicts customer lifetime value using probabilistic models (performed based on BTYDplus package in R).
 The application was created using the Shiny package in R in collaboration with university colleague - Ekaterina Durnobragova.
 
 
